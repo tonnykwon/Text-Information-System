@@ -1,4 +1,5 @@
 # 410 MP2 submission
+# test
 setwd("C:/Users/tony/Documents/MCS/CS410 Text Information System/MP2/MP2")
 
 bm25 = read.table('bm25.avg_p.txt')$V1
